@@ -1,6 +1,6 @@
 {
   "env": {
-    "EDITOR": "emacsclient --nw"
+    "EDITOR": "nvim"
   },
   "statusLine": {
     "type": "command",
@@ -8,5 +8,6 @@
   },
   "enabledPlugins": {
     "swift-lsp@claude-plugins-official": true
-  }
+  },
+  "model": "opus"
 }
