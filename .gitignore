@@ -39,3 +39,5 @@ session-env/
 shell-snapshots/
 # 編集前後のファイル差分記録。個人の作業履歴であり容量も増え続ける
 file-history/
+# プラグインは入れないので
+plugins/*
