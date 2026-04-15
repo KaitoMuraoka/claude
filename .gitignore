@@ -41,3 +41,5 @@ shell-snapshots/
 file-history/
 # プラグインは入れないので
 plugins/*
+mcp-needs-auth-cache.json
+policy-limits.json
