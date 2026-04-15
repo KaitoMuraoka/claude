@@ -1,6 +1,6 @@
 {
   "env": {
-    "EDITOR": "emacsclient --nw"
+    "EDITOR": "nvim"
   },
   "statusLine": {
     "type": "command",
